@@ -2,7 +2,6 @@
 
 This Branch has all the python pracice codes and interview Q&A's
 
-
 FILE 1:
 
 Q1. What are Python’s key features? Why is it called an interpreted language?
