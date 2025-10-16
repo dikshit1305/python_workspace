@@ -4,6 +4,9 @@ This Branch has all the python pracice codes and interview Q&A's
 
 FILE 1:
 
+
+
+
 Q1. What are Python’s key features? Why is it called an interpreted language?
 
 Ans: Python is simple, high-level, dynamically typed, portable, and supports OOP and libraries. It is called interpreted because code runs line by line using the Python interpreter, without compilation.
