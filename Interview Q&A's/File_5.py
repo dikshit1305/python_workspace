@@ -1,4 +1,3 @@
-# ==========================================================
 # 1. Custom Data Type Conversion
 # Count occurrences of each data type in a mixed list
 # ==========================================================
